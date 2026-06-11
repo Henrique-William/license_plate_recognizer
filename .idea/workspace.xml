@@ -1,42 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6060fda7-270a-4e5b-ab7b-6e310bde05c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/license_plate_recognize.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/easyocr_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/tesseract_run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/10.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/11.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/12.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/13.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/14.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/15.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/16.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/17.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/18.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/19.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/20.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/7.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/8.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/placas_exercicio/9.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pre_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Henrique-William&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Henrique-William/license_plate_recognizer.git&quot;,
+    &quot;accountId&quot;: &quot;14442d50-6094-44c0-85b3-1b833e3edb0f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3E0xjdWW5BoTq8s2lNWbkcSoIFC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/oshen/OneDrive/Documentos/workspace/license_plate_recognize&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\oshen\OneDrive\Documentos\workspace\license_plate_recognize" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oshen\OneDrive\Documentos\workspace\license_plate_recognize\models" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -52,6 +102,30 @@
       <option name="presentableId" value="Default" />
       <updated>1779329424453</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial config">
+      <option name="closed" value="true" />
+      <created>1779330024999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779330024999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial config" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial config" />
   </component>
 </project>
