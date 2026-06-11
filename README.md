@@ -32,3 +32,8 @@ This project was developed and executed using WSL (Ubuntu). Follow the steps bel
 2. Access the **.venv** environment:
     ```bash
    source .venv/bin/activate
+   ```
+3. Running the appliation:
+    ```bash
+   python3 main.py
+   ```
